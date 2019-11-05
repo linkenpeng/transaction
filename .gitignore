@@ -1,0 +1,12 @@
+*.bat
+.idea/
+.project
+.settings/
+*.iml
+*.ipr
+*.iws
+.classpath
+.clover/
+.svn/
+.target/
+*.log
